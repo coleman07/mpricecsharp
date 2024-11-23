@@ -1,0 +1,14 @@
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net9.0/AboutMyEnvironment
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net9.0/AboutMyEnvironment.deps.json
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net9.0/AboutMyEnvironment.runtimeconfig.json
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net9.0/AboutMyEnvironment.dll
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net9.0/AboutMyEnvironment.pdb
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.AssemblyInfo.cs
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.dll
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/refint/AboutMyEnvironment.dll
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.pdb
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.genruntimeconfig.cache
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/ref/AboutMyEnvironment.dll
