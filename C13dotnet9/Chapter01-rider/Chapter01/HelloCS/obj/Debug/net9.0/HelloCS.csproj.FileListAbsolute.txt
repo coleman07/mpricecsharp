@@ -1,0 +1,14 @@
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/bin/Debug/net9.0/HelloCS
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/bin/Debug/net9.0/HelloCS.deps.json
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/bin/Debug/net9.0/HelloCS.runtimeconfig.json
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/bin/Debug/net9.0/HelloCS.dll
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/bin/Debug/net9.0/HelloCS.pdb
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/obj/Debug/net9.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/obj/Debug/net9.0/HelloCS.AssemblyInfoInputs.cache
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/obj/Debug/net9.0/HelloCS.AssemblyInfo.cs
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/obj/Debug/net9.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/obj/Debug/net9.0/HelloCS.dll
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/obj/Debug/net9.0/refint/HelloCS.dll
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/obj/Debug/net9.0/HelloCS.pdb
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/obj/Debug/net9.0/HelloCS.genruntimeconfig.cache
+/Users/seancoleman/Documents/Learning/c13dotnet9/Chapter01-rider/Chapter01/HelloCS/obj/Debug/net9.0/ref/HelloCS.dll
